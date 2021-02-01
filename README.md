@@ -1,1 +1,1 @@
-# TrianafySGE
+# ProyectoSGETrianafy
